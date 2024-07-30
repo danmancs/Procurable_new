@@ -1,0 +1,189 @@
+{
+  "Header": {
+    "title": "Procurable Group",
+    "paragraph": "Experts in Project Managment and Suppliers of Marine and Infrastructure Equipment and Solutions."
+  },
+  "About": {
+    "paragraph": "Welcome to **Procurable Group**; consisting of **Procurable Marine & Infrastructure**, and **Procurable Projects**. We are your trusted partner for high-quality marine and infrastructure equipment and comprehensive project management services.",
+    "paragraph2": "**Procurable Projects** provides project management services to clients in the Ports and Marine, AtoN, Aviation and Airports, and Construction sectors. As a Project Management Consultancy, we offer a full range of project lifecycle services and scalable solutions. Whether you need support for a few hours a week or full secondment, we are here to meet your project management needs.  Our team brings extensive industry experience and a commitment to excellence, ensuring that every project is delivered on time and within budget. We focus on building strong partnerships with our clients, providing reliable and effective solutions tailored to their specific requirements. ",
+    "paragraph3": "**Procurable Marine & Infrastructure** supplies a range of high quality equipment from world leading manufacturers to the Ports, Marine, and AtoN sectors.  Our range includes physical and electronic AtoN, port equipment (fenders, bollards, pneumatics), anchor and mooring chain, and marina equipment.",
+    "paragraph4": "All of our products and services are underpined by 25 years of global industry experience across multiple sectors.",
+
+    "Why": [
+      "Total project lifecycle services",
+      "Scalable solutions to client needs",
+      "Client-focused approach",
+      "Vast technical expertise"
+    ],
+    "Why2": [
+      "High-quality engineered products",
+      "Global Manufacturers",
+      "Custom designed solutions",
+      "Quality management"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Port Fenders",
+      "largeImage": "img/portfolio/Marine-Fenders.pdf",
+      "smallImage": "img/portfolio/fenders.png"
+    },
+    {
+      "title": "Dock Accessories",
+      "largeImage": "img/portfolio/Dock-accessories.pdf",
+      "smallImage": "img/portfolio/dock-accessories.png"
+    },
+    {
+      "title": "Cone Fenders",
+      "largeImage": "img/portfolio/Cone-Fenders.pdf",
+      "smallImage": "img/portfolio/cone-fenders.png"
+    },
+    {
+      "title": "Floating Fenders",
+      "largeImage": "img/portfolio/Floating-Fenders.pdf",
+      "smallImage": "img/portfolio/floating.png"
+    },
+    {
+      "title": "Tug Fenders",
+      "largeImage": "img/portfolio/Boat-Fenders.pdf",
+      "smallImage": "img/portfolio/boat-fenders.png"
+    },
+    {
+      "title": "Offshore",
+      "largeImage": "img/portfolio/Offshore-Products.pdf",
+      "smallImage": "img/portfolio/offshore.png"
+    },
+
+    {
+      "title": "Buoys",
+      "largeImage": "img/portfolio/Buoys.pdf",
+      "smallImage": "img/portfolio/buoys.png"
+    },
+    {
+      "title": "Chains",
+      "largeImage": "img/portfolio/Procurable_Chain_Catalogue.pdf",
+      "smallImage": "img/portfolio/chains.png"
+    },
+    {
+      "title": "AIS AtoN",
+      "largeImage": "img/portfolio/SRT_Digital_AtoN_Presentation.pdf",
+      "smallImage": "img/portfolio/AIS.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Project & Contract Management",
+      "text": "Servicing the Ports, Marine, AtoN, and broader Construction industries we offer an end to end PMC service."
+    },
+    {
+      "icon": "fa fa-fire-extinguisher",
+      "name": "Dispute Resolution",
+      "text": "Projects sometimes go sideways. We can help get your project back on track by working with all parties to come to a resolution and get the job done."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Supplier Quality Management",
+      "text": "Specialising in managing supplier quality in complex manufacturing and construction environments. With real-world factory SQA experience, be know how to get the best from suppliers."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Strategic Sourcing",
+      "text": "Procurable has a worldwide network of partners able to source a huge variety of engineered products and equipment. From simple castings and forgings, right up to complex mining equipment and machinery."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Expediting",
+      "text": "Our expediting service ensures timely deliveries, reducing delays and enhancing communication. We manage order progress closely, keeping your projects on track and running smoothly."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Asset Management",
+      "text": "Our asset management services ensure the optimal performance and longevity of your assets through comprehensive monitoring, maintenance, and strategic planning."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "40 Howard Street, Grange, QLD, 4051 ",
+    "phone": "+61 405 209 719",
+    "email": "info@procurable.group",
+    "facebook": "https://www.linkedin.com/company/procurable-marine",
+    "twitter": "https://www.linkedin.com/company/procurable-projects",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
