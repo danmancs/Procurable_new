@@ -2,8 +2,11 @@
   "name": "landingpage-react-template",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.25.2",
     "@babel/plugin-syntax-flow": "^7.24.7",
     "@babel/plugin-transform-react-jsx": "^7.25.2",
+    "@eslint/config-array": "^0.17.1",
+    "@eslint/object-schema": "^2.1.4",
     "@jridgewell/sourcemap-codec": "^1.5.0",
     "@rollup/plugin-terser": "^0.4.4",
     "@testing-library/dom": "^10.4.0",
