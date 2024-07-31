@@ -19,8 +19,8 @@ export const Navigation = (props) => {
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
            <img
-            src="img/logo.png"
-            alt="Procurable Group"
+            src="img/Logo.png"
+            alt=""
             style={{ height: "40px", marginRight: "10px", display: "inline-block", verticalAlign: "middle" }}
             />
            Procurable Group Pty Ltd
