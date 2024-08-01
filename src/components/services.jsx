@@ -1,5 +1,7 @@
 import React from "react";
 import { Player } from '@lottiefiles/react-lottie-player';
+import '@lottiefiles/lottie-interactivity';
+import { useLottie, useLottieInteractivity } from "lottie-react";
 
 export const Services = (props) => {
   return (
@@ -25,10 +27,10 @@ export const Services = (props) => {
                         src={d.icon}
                         classname="player"
                         background="transparent"
-                        speed="1"
+                        speed="0.75"
                         style={{ width: "64px", height: "64px" }}
-                        loop="5"
                         autoplay
+                        loop
                         />
 
                   <div className="service-desc">
