@@ -8,6 +8,7 @@
     "@babel/plugin-transform-react-jsx": "^7.21.0",
     "@emailjs/browser": "^4.4.1",
     "@jridgewell/sourcemap-codec": "^1.4.8",
+    "@lottiefiles/react-lottie-player": "^3.5.4",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^16.0.0",

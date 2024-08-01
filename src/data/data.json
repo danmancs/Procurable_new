@@ -72,32 +72,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-briefcase",
+      "icon": "img/icons/Activity.json",
       "name": "Project & Contract Management",
-      "text": "Servicing the Ports, Marine, AtoN, and broader Construction industries we offer an end to end PMC service."
+      "text": "Servicing the Ports, Marine, AtoN, Aviation, and broader Construction industries we offer an end to end Project and Contract Management services."
     },
     {
-      "icon": "fa fa-fire-extinguisher",
+      "icon": "img/icons/Solution.json",
       "name": "Dispute Resolution",
       "text": "Projects sometimes go sideways. We can help get your project back on track by working with all parties to come to a resolution and get the job done."
     },
     {
-      "icon": "fa fa-cogs",
+      "icon": "img/icons/Risk.json",
       "name": "Supplier Quality Management",
       "text": "Specialising in managing supplier quality in complex manufacturing and construction environments. With real-world factory SQA experience, be know how to get the best from suppliers."
     },
     {
-      "icon": "fa fa-globe",
+      "icon": "img/icons/Partnership.json",
       "name": "Strategic Sourcing",
       "text": "Procurable has a worldwide network of partners able to source a huge variety of engineered products and equipment. From simple castings and forgings, right up to complex mining equipment and machinery."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "img/icons/Schedule.json",
       "name": "Expediting",
       "text": "Our expediting service ensures timely deliveries, reducing delays and enhancing communication. We manage order progress closely, keeping your projects on track and running smoothly."
     },
     {
-      "icon": "fa fa-tasks",
+      "icon": "img/icons/Maintenance.json",
       "name": "Asset Management",
       "text": "Our asset management services ensure the optimal performance and longevity of your assets through comprehensive monitoring, maintenance, and strategic planning."
     }
