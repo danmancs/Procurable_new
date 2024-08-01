@@ -27,7 +27,7 @@ export const Services = (props) => {
                         background="transparent"
                         speed="1"
                         style={{ width: "64px", height: "64px" }}
-                        loop
+                        loop="5"
                         autoplay
                         />
 
