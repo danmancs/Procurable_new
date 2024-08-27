@@ -38,8 +38,21 @@ export const Services = (props) => {
                     <p>{d.text}</p>
                   </div>
                 </div>
+
               ))
-            : "loading"}
+                      : "loading"}
+                  <div id="PM Guide" className="text-center">
+                      <div className="container">
+                          <div className="section-title">
+                              <p>
+                                  <a href="https://procurable.group/HTML/project.html" target="_blank" rel="noopener noreferrer">
+                                      Check out our project management guide.
+                                  </a>
+                              </p>
+                          </div>
+                      </div>
+                  </div>
+
         </div>
       </div>
     </div>
