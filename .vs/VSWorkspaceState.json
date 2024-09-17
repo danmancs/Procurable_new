@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\img\\icons",
-    "\\src"
+    "\\src",
+    "\\src\\components"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\src\\components\\services.jsx",
   "PreviewInSolutionExplorer": false
 }
