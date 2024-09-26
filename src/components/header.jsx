@@ -14,8 +14,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="https://cal.com/dan-procurable.group/meet"
-                  className="btn btn-custom btn-lg page-scroll"
+                href="https://cal.com/dan-procurable.group/meet"
+                className="btn btn-custom btn-lg page-scroll"
+                target="_blank"
+                rel="noopener noreferrer"
                 >
                   Book a Meeting
                 </a>{" "}
