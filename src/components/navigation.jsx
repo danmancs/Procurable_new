@@ -23,7 +23,7 @@ export const Navigation = (props) => {
             alt=""
             style={{ height: "40px", marginRight: "10px", display: "inline-block", verticalAlign: "middle" }}
             />
-           Procurable Group Pty Ltd
+           Procurable Projects
           </a>{" "}
         </div>
 

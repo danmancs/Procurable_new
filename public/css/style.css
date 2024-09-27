@@ -148,7 +148,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -169,7 +169,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -196,7 +196,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -207,19 +207,19 @@ hr {
   font-size: 18px;
 }
 .btn-custom {
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
-  color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
-  padding: 14px 34px;
-  letter-spacing: 1px;
-  margin: 0;
-  font-size: 15px;
-  font-weight: 500;
-  border-radius: 25px;
-  transition: all 0.5s linear;
-  border: 0;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #7a7776;
+    background-image: linear-gradient(to right, #363535 0%, #7a7776 100%);
+    padding: 14px 34px;
+    letter-spacing: 1px;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 25px;
+    transition: all 0.5s linear;
+    border: 0;
 }
 .btn-custom:hover,
 .btn-custom:focus,
@@ -228,7 +228,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #f7490d;
 }
 .btn:active,
 .btn.active {
@@ -247,20 +247,28 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+.col-xs-12.col-md-6 {
+    display: flex;
+    align-items: flex-end; /* Aligns the content to the bottom of the container */
+    justify-content: center; /* Centers the image horizontally (optional) */
+}
+
 /* Header Section */
 .intro {
-  display: table;
-  width: 100%;
-  padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+    height: 100%;
+    max-height: 600px;
+    display: table;
+    width: 100%;
+    padding: 0;
+    background: url(../img/intro-bg.jpg) right top no-repeat;
+    background-color: #ffffff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -277,15 +285,15 @@ a:focus,
 }
 .intro p {
   color: #fff;
-  font-size: 22px;
-  font-weight: 300;
-  line-height: 30px;
-  margin: 0 auto;
-  margin-bottom: 60px;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 58px;
+  margin: auto;
+  margin-bottom: 20px;
 }
 header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
+  padding-top: 450px;
+  padding-bottom: 50px;
   text-align: center;
 }
 /* Features Section */
@@ -306,7 +314,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #about h3 {
   font-size: 22px;
@@ -320,7 +328,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -335,14 +343,14 @@ header .intro-text {
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #5ca9fb;
+  color: #b0350a;
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
 }
 #about img {
-  width: 520px;
-  margin-top: 10px;
+  width: 600px;
+  margin-top: 80;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
@@ -354,7 +362,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   color: #fff;
 }
 #services .service-desc {
@@ -378,7 +386,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #000000 0%, #b0350a 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -504,7 +512,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
