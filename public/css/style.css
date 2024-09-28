@@ -211,7 +211,7 @@ hr {
     text-transform: uppercase;
     color: #fff;
     background-color: #7a7776;
-    background-image: linear-gradient(to right, #363535 0%, #7a7776 100%);
+    background-image: linear-gradient(to right, #000000 0%, #2d2d2d 100%);
     padding: 14px 34px;
     letter-spacing: 1px;
     margin: 0;
@@ -228,7 +228,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #f7490d;
+  background-color: #c43a0a;
 }
 .btn:active,
 .btn.active {
@@ -254,21 +254,21 @@ a:focus,
 }
 
 /* Header Section */
+
+.intro .overlay {
+    /*background: rgba(0, 0, 0, 0);*/
+}
 .intro {
     height: 100%;
     max-height: 600px;
     display: table;
     width: 100%;
     padding: 0;
-    background: url(../img/intro-bg.jpg) right top no-repeat;
-    background-color: #ffffff;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    background: url(../img/intro-bg.png), linear-gradient(to right, #b0350a 0%, #000000 100%);
     background-size: cover;
-    -o-background-size: cover;
-}
-.intro .overlay {
-  background: rgba(0, 0, 0, 0);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top right;
+   /* border: 2px solid red;  Temporary border to see the container */
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -297,7 +297,7 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
-#features {
+        #features {
   background: #f6f6f6;
 }
 #features i.fa {
@@ -361,7 +361,7 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-  padding: 100px 0;
+  padding: 50px 0;
   background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   color: #fff;
 }
@@ -511,7 +511,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 50px 0 60px;
   background: linear-gradient(to right, #b0350a 0%, #000000 100%);
   color: rgba(255, 255, 255, 0.75);
 }
